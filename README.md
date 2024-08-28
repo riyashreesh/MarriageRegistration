@@ -1,2 +1,2 @@
 # MarriageRegistration
-Marriage couple can register here 
+ couple can register here for marriage 
